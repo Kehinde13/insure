@@ -273,7 +273,7 @@ footer hr {
      .heroDesktop {
         width: 35%;
         position: absolute;
-        top: 170px;
+        top: 140px;
         right: 100px;
         display: block;
      }
@@ -353,7 +353,7 @@ footer hr {
         position: absolute;
         top: -1px;
         right: -1px;
-        width: 48%;
+        width: 30%;
      }
 
      .find a {
